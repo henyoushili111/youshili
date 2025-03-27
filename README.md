@@ -1,3 +1,6 @@
+
+
+
 \begin{table}[htbp]
 \centering
 \caption{Prisoner's Dilemma (2x2)}
